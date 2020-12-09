@@ -1,0 +1,10 @@
+C:\Users\Eduard\source\repos\редактор\редактор\bin\Debug\редактор.exe.config
+C:\Users\Eduard\source\repos\редактор\редактор\bin\Debug\редактор.exe
+C:\Users\Eduard\source\repos\редактор\редактор\bin\Debug\редактор.pdb
+C:\Users\Eduard\source\repos\редактор\редактор\obj\Debug\редактор.csprojAssemblyReference.cache
+C:\Users\Eduard\source\repos\редактор\редактор\obj\Debug\редактор.Form1.resources
+C:\Users\Eduard\source\repos\редактор\редактор\obj\Debug\редактор.Properties.Resources.resources
+C:\Users\Eduard\source\repos\редактор\редактор\obj\Debug\редактор.csproj.GenerateResource.cache
+C:\Users\Eduard\source\repos\редактор\редактор\obj\Debug\редактор.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\source\repos\редактор\редактор\obj\Debug\редактор.exe
+C:\Users\Eduard\source\repos\редактор\редактор\obj\Debug\редактор.pdb
